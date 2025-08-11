@@ -1,4 +1,5 @@
 {
-  "latestVersionCode": 1,
-  "updateUrl": ""
+  "latestVersionCode": 99999,
+  "updateUrl": "",
+  "changelog": "• New features added\n• Bug fixes and performance improvements"
 }
